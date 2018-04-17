@@ -1,0 +1,7 @@
+ISOT Botnet dataset from university of Victoria
+
+Conficker Dataset from CAIDA
+
+Citadel Botnet and Alexa benign Dataset
+
+IRC bot dataset from Centro University
